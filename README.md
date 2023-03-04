@@ -1,2 +1,2 @@
-# Personal-Webpage
-A Personal Webpage project based on html,css and js
+# Resume
+A Webpage for resume, using bootstrap
